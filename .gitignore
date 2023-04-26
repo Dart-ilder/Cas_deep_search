@@ -24,3 +24,4 @@ data_preprocessing/genome_scraping/assessions_part09.zip
 data_preprocessing/genome_scraping/assessions_part10.zip
 data_preprocessing/genome_scraping/assessions_part11.zip
 data_preprocessing/genome_scraping/ncbi_dataset/*
+esm/emb_pregen/model/esm2_t33_650M_UR50D.pt
