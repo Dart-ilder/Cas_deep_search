@@ -26,3 +26,9 @@ data_preprocessing/genome_scraping/assessions_part11.zip
 data_preprocessing/genome_scraping/ncbi_dataset/*
 esm/emb_pregen/model/esm2_t33_650M_UR50D.pt
 esm/emb_pregen/batched_embs/*
+
+.obsidian/app.json
+.obsidian/appearance.json
+.obsidian/core-plugins-migration.json
+.obsidian/core-plugins.json
+.obsidian/workspace.json
