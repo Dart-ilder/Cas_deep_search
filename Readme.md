@@ -5,8 +5,7 @@ data_preprocessing - downloading and parcing data from Kira's dataset. Getting i
 
     gene_counter - simple counter of cas genes appearance in dataset
     genome_scraping - downloader of all needed genomes
-  
-Diploma - draft of the diploma itself
+
 
 ## Project state
 Working only in my hands, but working. Open to future work and collaboration.
